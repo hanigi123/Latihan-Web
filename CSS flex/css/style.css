@@ -1,0 +1,15 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.container-fluid{
+    width: 100%;
+    background: #0984e3;
+    
+}
+.container{
+    width: 75%;
+    background: #81ecec;
+    margin: auto;
+}
